@@ -1,6 +1,6 @@
-# zerotierone-aarch64-static
+# zerotierone-aarch64-static 1.12.2
 
-This project provides static [Zerotier-One](https://github.com/zerotier/ZeroTierOne) binaries.
+This project provides static [Zerotier-One](https://github.com/zerotier/ZeroTierOne) binary.
 
  * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
  * AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
