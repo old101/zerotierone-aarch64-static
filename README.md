@@ -1,9 +1,10 @@
 # zerotierone-aarch64-static 1.12.2
-`
-size:   3,345,560
-build:  make ZT_STATIC=1 ZT_SSO_SUPPORTED=0 one
-file:   zerotier-one: ELF 64-bit LSB executable, ARM aarch64, version 1 (SYSV), statically linked, BuildID[sha1]=cee5dd8e97795ba473b12aa63a8f7e9fea8067e1, stripped
-`
+
+`size:   3,345,560`
+`build:  make ZT_STATIC=1 ZT_SSO_SUPPORTED=0 one`
+`file:   zerotier-one: ELF 64-bit LSB executable, ARM aarch64, version 1 (SYSV), statically linked, BuildID[sha1]=cee5dd8e97795ba473b12aa63a8f7e9fea8067e1, stripped`
+
+
 
 
 This project provides static [Zerotier-One](https://github.com/zerotier/ZeroTierOne) binary.
