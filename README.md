@@ -1,8 +1,8 @@
 # zerotierone-aarch64-static 1.12.2
 <br />
 
-`commit 663ed73768a895a8681b6ec57059109073adf8f9`<br />
-`size:   2,669,136`<br />`build:  make ZT_STATIC=1 ZT_SSO_SUPPORTED=0 one`<br />
+`commit 99ef1e2696c6d28d6742908c8b43081b1a7ddba2`<br />
+`size:   2,747,736`<br />`build:  make ZT_STATIC=1 ZT_SSO_SUPPORTED=0 one`<br />
 `file:   zerotier-one: ELF 64-bit LSB pie executable, ARM aarch64, version 1 (SYSV), static-pie linked, stripped`<br />
 <br /><br /><br />
 
